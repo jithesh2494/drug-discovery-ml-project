@@ -1,4 +1,5 @@
 Machine Learning for Drug Discovery
+
 This project uses a machine learning model to predict the biological activity ('Active' or 'Inactive') of chemical compounds based on their molecular properties. This is a classic binary classification task in the field of virtual screening for drug discovery.
 
 Dataset
